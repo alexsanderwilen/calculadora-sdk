@@ -26,9 +26,9 @@
 
     <!-- SCM para vincular ao repositório GitHub -->
     <scm>
-        <url>https://github.com/seu-usuario/seu-repo</url>
-        <connection>scm:git:https://github.com/seu-usuario/seu-repo.git</connection>
-        <developerConnection>scm:git:https://github.com/seu-usuario/seu-repo.git</developerConnection>
+        <url>https://github.com/alexsanderwilen/calculadora-sdk</url>
+        <connection>scm:git:https://github.com/alexsanderwilen/calculadora-sdk.git</connection>
+        <developerConnection>scm:git:https://github.com/alexsanderwilen/calculadora-sdk.git</developerConnection>
     </scm>
 
     <properties>
