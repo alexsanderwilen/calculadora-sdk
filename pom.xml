@@ -20,7 +20,7 @@
     <distributionManagement>
         <repository>
             <id>github</id>
-            <url>https://maven.pkg.github.com/seu-usuario/seu-repo</url>
+            <url>https://maven.pkg.github.com/alexsanderwilen/calculadora-sdk</url> <!-- Substitua com o seu repositório -->
         </repository>
     </distributionManagement>
 
@@ -71,4 +71,11 @@
         </plugins>
     </build>
 
+    <!-- Repositório para o Maven buscar dependências -->
+    <repositories>
+        <repository>
+            <id>github</id>
+            <url>https://maven.pkg.github.com/alexsanderwilen/calculadora-sdk</url> <!-- Substitua com o seu repositório -->
+        </repository>
+    </repositories>
 </project>
